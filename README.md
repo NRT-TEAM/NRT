@@ -1,41 +1,34 @@
-
-
-<h3 align="center"> 
+<h1 align="center"> 
 🔴 NRT: Navigate, Transact, Retrieve 🔴
-</h3>                                                    
+</h1>                                                    
            
 ---
 
 <h3 align="center">
-  Developers: Nazim, Toufeeq, Ridhaa</h3>
-<div align="center">
+Developers: Nazim, Toufeeq, Ridhaa
+</h3>
 
-
-redAcademy has a Vending Machine for Software Developer Sprinters to use, offering the perfect snacks for developers to handle bugs effectively. The Admin of the system must first add sprinters so that they are able to Login and use the NRT vending machine.
-<div align="center">
-
-
-</div>
-
-
-----
-
-<h1> Steps to run the Program: </h1>
+<p align="center">
+<b>redAcademy</b> has a <b>Vending Machine</b> for Software Developer Sprinters to use, offering the perfect snacks for developers to handle bugs effectively.  
+The <b>Admin</b> of the system must first add sprinters so they are able to login and use the NRT vending machine.  
+</p>
 
 ---
 
-<p> 1) Before running the program, open the App.config file.<br>
-and add the name of your server from SMMMS in {SERVERNAME}
+---
 
+## ⚙️ Steps to Run the Program
 
-</p>
+ **Configure database connection**  
+- Open `App.config`  
+- Update the `{SERVERNAME}` section with your **SQL Server name** from **SSMS**  
 
- 
-<img width="764" height="105" alt="image" src="https://github.com/user-attachments/assets/6d190fd4-9748-450e-b5ec-41179b0dead8" />
-
-<p> 2) Then from the SeedData.txt, copy and paste everything into a new query in SMMMS. That's it!
-
-</p>
-
-
-  
+```xml
+<connectionStrings>
+  <add name="NRTDb" connectionString="Data Source={SERVERNAME};Initial Catalog=NRTVending;Integrated Security=True;" providerName="System.Data.SqlClient" />
+</connectionStrings>
+```
+⚠️ Requirements
+Visual Studio 2019 or later
+.NET Framework 4.7.2
+SQL Server (Express or Standard)
