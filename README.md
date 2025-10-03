@@ -47,8 +47,12 @@ The <b>Admin</b> of the system must <b>first add sprinters</b> so they are able 
 </p>
 
 ---
-
-
+<p align="center">
+<img width="965" height="596" alt="image" src="https://github.com/user-attachments/assets/c73b6205-5dfd-427c-829f-17935be2110d" />
+</p> 
+<p align="center">
+  <img width="712" height="473" alt="image" src="https://github.com/user-attachments/assets/abbfa9e6-b7b6-4b25-868b-9532ac4a0c0b" />
+</p>
 
 <p><br> <br> </p>
 <p><br> <br> </p>
