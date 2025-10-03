@@ -1,0 +1,90 @@
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\1.wav
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\2.wav
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\3.wav
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\Spectre.Console.dll
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\System.Buffers.dll
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\System.Memory.Data.dll
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\System.Memory.dll
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\System.Text.Json.dll
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\System.ValueTuple.dll
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\Spectre.Console.xml
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\System.Buffers.xml
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\System.Memory.xml
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\System.Memory.Data.xml
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\System.Text.Json.xml
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\System.ValueTuple.xml
+C:\Users\Sprinter\Downloads\NRT-main\obj\Debug\NRT.csproj.AssemblyReference.cache
+C:\Users\Sprinter\Downloads\NRT-main\obj\Debug\NRT.csproj.SuggestedBindingRedirects.cache
+C:\Users\Sprinter\Downloads\NRT-main\obj\Debug\NRT.csproj.CoreCompileInputs.cache
+C:\Users\Sprinter\Downloads\NRT-main\obj\Debug\NRT.csproj.Up2Date
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\1.wav
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\2.wav
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\3.wav
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\NRT.exe.config
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\NRT.exe
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\NRT.pdb
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\Spectre.Console.dll
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\System.Buffers.dll
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\System.IO.Pipelines.dll
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\System.Memory.Data.dll
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\System.Memory.dll
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\System.Security.AccessControl.dll
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\System.Text.Json.dll
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\System.ValueTuple.dll
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\Spectre.Console.xml
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\System.Buffers.xml
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\System.IO.Pipelines.xml
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\System.Memory.xml
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\System.Memory.Data.xml
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\System.Security.AccessControl.xml
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\System.Text.Json.xml
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\bin\Debug\System.ValueTuple.xml
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\obj\Debug\NRT.csproj.AssemblyReference.cache
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\obj\Debug\NRT.csproj.SuggestedBindingRedirects.cache
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\obj\Debug\NRT.exe.config
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\obj\Debug\NRT.csproj.CoreCompileInputs.cache
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\obj\Debug\NRT.csproj.Up2Date
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\obj\Debug\NRT.exe
+C:\Users\DS1\Downloads\NRT-main 1\NRT-main\obj\Debug\NRT.pdb
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\NRT.exe.config
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\NRT.exe
+C:\Users\Sprinter\Downloads\NRT-main\bin\Debug\NRT.pdb
+C:\Users\Sprinter\Downloads\NRT-main\obj\Debug\NRT.exe.config
+C:\Users\Sprinter\Downloads\NRT-main\obj\Debug\NRT.exe
+C:\Users\Sprinter\Downloads\NRT-main\obj\Debug\NRT.pdb
