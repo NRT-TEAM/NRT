@@ -1,0 +1,85 @@
+# .gitignore - general-purpose for NRT repository
+# Adjust entries to fit the project's languages and tooling
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Linux
+*~
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.env
+.env.local
+.env.*.local
+dist/
+build/
+.cache/
+coverage/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.venv/
+pip-wheel-metadata/
+htmlcov/
+dist/
+build/
+*.egg-info/
+
+# Java / Gradle / Maven
+*.class
+*.jar
+*.war
+*.ear
+target/
+build/
+.gradle/
+
+# Go
+bin/
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+vendor/
+
+# Logs
+logs/
+*.log
+
+# IDEs
+.vscode/
+.idea/
+*.iml
+
+# Editor backups
+*.swp
+*.swo
+
+# Secrets / keys
+*.pem
+*.key
+secrets.yml
+
+# Misc
+coverage/
+.cache/
+
+# Optional: local environment or local config files
+.local.env
+local.settings.json
+
+# End of .gitignore
